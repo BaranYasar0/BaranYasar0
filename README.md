@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baran Yaşar</h1>
-<h3 align="center">A Computer Engineering student trying to improve myself in the .Net Core backend.</h3>
+<h3 align="center">A Jr. backend developer trying to improve myself in the .Net Core backend.</h3>
 
 - 🌱 I’m currently learning **.Net Core and Angular**
 
