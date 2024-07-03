@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baran Yaşar</h1>
 <h3 align="center">A Jr. backend developer trying to improve myself in the .Net Core backend.</h3>
 
-- 🌱 I’m currently learning **.Net Core and Angular**
+- 🌱 I’m currently learning **.Net Core and React**
 
 - 📫 How to reach me **byasarn@gmail.com**
 
